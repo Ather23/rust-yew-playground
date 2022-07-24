@@ -1,0 +1,1 @@
+/home/alif/apps/more_rust_1/target/wasm32-unknown-unknown/debug/more_rust_1.wasm: /home/alif/apps/more_rust_1/src/main.rs /home/alif/apps/more_rust_1/src/modules/game.rs /home/alif/apps/more_rust_1/src/modules/home.rs /home/alif/apps/more_rust_1/src/modules/login.rs /home/alif/apps/more_rust_1/src/modules/mod.rs /home/alif/apps/more_rust_1/src/modules/navbar.rs

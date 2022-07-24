@@ -1,0 +1,12 @@
+/home/alif/apps/more_rust_1/target/debug/deps/libthiserror_impl-92f2dc71e13aa7fc.so: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs
+
+/home/alif/apps/more_rust_1/target/debug/deps/thiserror_impl-92f2dc71e13aa7fc.d: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs
+
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/lib.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/ast.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/attr.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/expand.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/fmt.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/generics.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/prop.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.31/src/valid.rs:

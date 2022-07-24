@@ -1,0 +1,12 @@
+/home/alif/apps/more_rust_1/target/debug/deps/proc_macro2-905770c6dab6c4d3.rmeta: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/alif/apps/more_rust_1/target/debug/deps/libproc_macro2-905770c6dab6c4d3.rlib: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/alif/apps/more_rust_1/target/debug/deps/proc_macro2-905770c6dab6c4d3.d: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs
+
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/lib.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/marker.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/parse.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/detection.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/fallback.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.40/src/wrapper.rs:
