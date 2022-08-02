@@ -1,7 +1,9 @@
 #![recursion_limit = "256"]
 use crate::modules::login::LoginPage;
+use gloo::console::log;
 use modules::game::GamePage;
 use modules::home::HomePage;
+use modules::knowledge::KnowledgePage;
 use wasm_bindgen::{prelude::wasm_bindgen, JsValue};
 use yew::prelude::*;
 use yew_router::{BrowserRouter, Routable, Switch};
@@ -11,6 +13,8 @@ mod modules;
 enum Route {
     #[at("/")]
     Home,
+    #[at("/knowledge")]
+    Knowledge,
     #[at("/login")]
     Login,
     #[at("/game")]
@@ -25,6 +29,7 @@ fn router(routes: &Route) -> Html {
         Route::Home => html! {<HomePage/>},
         Route::Game => html! {<GamePage/>},
         Route::Login => html! {<LoginPage/>},
+        Route::Knowledge => html! {<KnowledgePage/>},
         // Route::NavBar => html! {<NavBar page="2"/>},
         Route::NotFound => html! {<h1>{"404"}</h1>},
     }
@@ -63,5 +68,6 @@ pub fn run_app() -> Result<(), JsValue> {
 }
 
 fn main() {
+    log!("Starting app.");
     yew::start_app::<Main>();
 }
